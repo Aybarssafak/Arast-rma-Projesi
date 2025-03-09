@@ -5,7 +5,7 @@ from selenium.webdriver.common.keys import Keys
 
 
 url = "https://tr.wikipedia.org/wiki/Anasayfa"
-aranılan = "ceza" #Bu kısımda ne aratmak isterseniz onu girebilirsiniz.
+aranılan = "Atatürk" #Bu kısımda ne aratmak isterseniz onu girebilirsiniz.
 kaynak = aranılan+".doc"#dosya türünü ayarlayın.
 
 class Wiki:
